@@ -1,5 +1,8 @@
 
 -Bug fixes
--Particle fix
+-Added Removals
 -Auto wall improvements
--Anti aim fix(beta)
+-Ui changes
+-Added model changer
+-Added gun model changer
+-Icon system fix
