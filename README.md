@@ -6,3 +6,5 @@
 -Added model changer
 -Added gun model changer
 -Icon system fix
+-Config system fix
+-Silent aim fix for online servers
